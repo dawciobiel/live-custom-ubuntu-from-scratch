@@ -1,4 +1,4 @@
-name: build-noble
+name: build-v4-noble
 
 on:
   push:
